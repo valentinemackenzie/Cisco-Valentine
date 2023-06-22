@@ -2,19 +2,17 @@
 <h1 align="center">Hello, I'm Valentine!</h1>
 <h3 align="center">Experienced with Full Stack Java Development, Machine Learning, Data Engineering and Automation Testing</h3>
 
-<h4 align="center">I am a Java Developer with 3 years of knowledge  back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do.</h4>
+<h4 align="center">I am a Learner with a single-year of knowledge  back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do.</h4>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- ✔  Please have a look to my Digital Protfolio :  https://alanbinu.com/
-- 💻 My LeetCode Profile : https://leetcode.com/alanbinu5/
-- 😎 Check my Digital archivements Badges https://www.credly.com/users/alan-binu
-- 🌟 Visit My Blog Page : https://hashnode.com/@alanbinu/
-- ❤  Currently i am looking for a new Job
-- 🎉 My Proffestional certificates  https://drive.google.com/drive/u/0/folders/1YRBGfnkOho_u8-UOTZxxFiSvxKD8rw97
-- 📫 How to reach me on LinkedIn  https://www.linkedin.com/in/alan-binu-95025015a/
+- ✔  Please have a look to my Digital Protfolio : https://www.pornhub.com/user/valentine
+- 💻 My Spotify Profile : https://sptfy.com/valentinecisco
+- 🌟 My Discord : valentine.ca
+- ❤ 
+(i am in immense pain and in urgent need of help) 
 
 <a href="https://www.buymeacoffee.com/alanbinu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
