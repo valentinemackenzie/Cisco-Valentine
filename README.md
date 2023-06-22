@@ -14,7 +14,7 @@
 - ❤ 
 (i am in immense pain and in urgent need of help) 
 
-<a href="https://www.buymeacoffee.com/alanbinu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/idontneedMONEYijustthinkthislookspretty:)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 💻 *Languages and Tools:* 🛠️<br>
