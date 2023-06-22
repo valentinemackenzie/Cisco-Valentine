@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello, I'm Valentine!</h1>
 <h3 align="center">Experienced with OSINT and Other Kali Linux Softwares! </h3>
-![437a080b1afb16126a3a7b5b55740cf2](https://github.com/Cisco-Valentine/Cisco-Valentine/assets/68817635/5885e399-af4e-4b71-ba05-5b54c920ad6f)
 
 <h4 align="center">I am a Learner with a Two-ish years of basic fundmental knowledge . My objective is simply to help the oblivious :D </h4>
 
