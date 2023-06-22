@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Valentine!</h1>
 <h3 align="center">Experienced with OSINT and Other Kali Linux Softwares! </h3>
 
-<h4 align="center">I am a Learner with a single-year of knowledge  back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best software developer that I can be and to contribute to the technology industry all that I know and can do.</h4>
+<h4 align="center">I am a Learner with a single-year of knowledge  back end languages, responsive frameworks, databases, and best code practices. My objective is simply to help the oblivious:D </h4>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
