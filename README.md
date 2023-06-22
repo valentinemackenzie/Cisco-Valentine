@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Valentine!</h1>
 <h3 align="center">Experienced with OSINT and Other Kali Linux Softwares! </h3>
 
-<h4 align="center">I am a Learner with a Two-ish years of basic fundmental knowledge . My objective is simply to help the oblivious:D </h4>
+<h4 align="center">I am a Learner with a Two-ish years of basic fundmental knowledge . My objective is simply to help the oblivious :D </h4>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
