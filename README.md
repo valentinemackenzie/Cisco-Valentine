@@ -39,7 +39,7 @@
 
 ❤ https://www.cybertip.ca/en/report/federal
 
-❤ kalispamlinux@gmail.com
+❤ kali.spam.linux@gmail.com
 
 ❤https://www.missingkids.org/content/dam/missingkids/pdfs/OJJDP-NCMEC-Transparency_2022-Calendar-Year.pdf <3
 
