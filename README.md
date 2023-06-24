@@ -48,7 +48,8 @@
 
 <img width="632" alt="image" src="https://github.com/Cisco-Valentine/Cisco-Valentine/assets/68817635/39a8a380-3afd-4bb9-ac79-dbf5a6b6e993">
 
-<img width="632" alt="image" src="https://github.com/Cisco-Valentine/Cisco-Valentine/assets/68817635/74a811c5-2cc0-4f47-81bc-752da9d3e73e">
+<img width="627" alt="image" src="https://github.com/Cisco-Valentine/Cisco-Valentine/assets/68817635/679b4369-4898-40c3-88f2-aafd3cccdea0">
+
 
 
 <!-- ## 🏆 Github Status
