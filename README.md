@@ -8,7 +8,7 @@
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- ✔  Please have a look to my Digital Protfolio : https://www.pornhub.com/user/valentine
+- ✔  Please have a look to my Digital Portfolio : https://www.pornhub.com/user/valentine
 - 💻 My Spotify Profile : https://sptfy.com/valentinecisco
 - 🌟 My Discord : valentine.ca
 - ❤ 
